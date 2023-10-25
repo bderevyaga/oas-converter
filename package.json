@@ -1,0 +1,13 @@
+{
+  "name": "oas-converter",
+  "description": "OpenAPI Converter",
+  "version": "0.0.0",
+  "author": "Bogdan Derevyaga",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bderevyaga/oas-converter"
+  },
+  "dependencies": {
+  }
+}
